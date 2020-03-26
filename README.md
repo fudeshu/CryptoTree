@@ -6,7 +6,7 @@ https://www.babaoshu.cn/CryptoTree_Whitepaper_1.2_EN.pdf
 https://www.babaoshu.cn/CryptoTree_Whitepaper_1.2_CN.pdf
 
 # Introduction on CryptoTree
-CryptoTree is a blockchain game developed by Fudeshu (Beijing) Clockchain Technology Co., Ltd. for the purpose of growing a CryptoAsset-CryptoTree. The total number of CryptoTrees is 600,000. As a non-homogeneous digital asset, CryptoTree is also a composite digital asset combining game assets, advertising assets and financial assets. The normally growing CryptoTree produces leaves and fruits every day. Its leaves are FF (game currency, TRC20 assets) and the fruits are DX (advertising assets, TRC20 assets).
+CryptoTree is a blockchain game developed by Fudeshu (Beijing) Blockchain Technology Co., Ltd. for the purpose of growing a CryptoAsset-CryptoTree. The total number of CryptoTrees is 600,000. As a non-homogeneous digital asset, CryptoTree is also a composite digital asset combining game assets, advertising assets and financial assets. The normally growing CryptoTree produces leaves and fruits every day. Its leaves are FF (game currency, TRC20 assets) and the fruits are DX (advertising assets, TRC20 assets).
 
 In addition to using within the CryptoTree ecology such as various game parts and playing methods, FF can also be converted into TRX. You need to view advertisings when harvesting DX, and advertising fees can be paid by TRX. 90% of the advertising fees will enter the bonus pool, and any 8 DX can be used to draw TRX. Therefore, FF and DX produced by CryptoTree are valuable. The output of FF and DX depends on CryptoTree’s Hashrate which can be improved through game.
 
